@@ -12,8 +12,7 @@ An **interactive Power BI dashboard** to visualize employee attrition and KPIs, 
 
 ## 🛠 Tools and Frameworks
 - **Programming Language**: SQL, DAX (Power BI)
-- **Libraries**: Power BI, MariaDB, Excel
-- **Platform**: Power BI Desktop
+- **Tools Used**: Power BI, MariaDB, Excel
 
 ---
 
